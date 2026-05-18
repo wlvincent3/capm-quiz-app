@@ -1,17 +1,8 @@
 # CAPM Exam Prep Quiz
 
-An interactive React quiz app covering all four domains of the PMI CAPM (Certified Associate in Project Management) exam. Built as a personal study tool with detailed rationale for every answer.
+Interactive React quiz covering all four PMI CAPM exam domains. 76 scenario-based questions with answer rationale and elimination logic.
 
-## What This Does
-
-- **76 scenario-based questions** across all tested domains
-- Randomizes question order on every session
-- Shows immediate feedback after each answer
-- Explains the reasoning behind every correct and incorrect choice — not just what's right, but why the wrong answers are wrong
-- Tracks score and progress throughout the session
-- No backend, no database — runs entirely in the browser
-
-## Domains Covered
+## Domains
 
 | Domain | Questions |
 |--------|-----------|
@@ -21,7 +12,12 @@ An interactive React quiz app covering all four domains of the PMI CAPM (Certifi
 | Business Analysis (elicitation, RTM, BDD) | 27 |
 | Cross-Domain Application & Judgment | 6 |
 
-Questions focus on scenario application, not memorization. The explanations walk through elimination logic the way the exam actually requires.
+## Features
+
+- Randomized question order per session
+- Immediate feedback with rationale for correct and incorrect choices
+- Score tracking throughout the session
+- No backend — runs entirely in the browser
 
 ## Running Locally
 
@@ -34,6 +30,6 @@ npm start
 
 Opens at `http://localhost:3000`.
 
-## Built With
+## Stack
 
-React 19. No external APIs or dependencies beyond the React ecosystem. Built with AI assistance (Claude) as a tool to accelerate CAPM exam prep.
+React 19. No external APIs or dependencies beyond the React ecosystem.
