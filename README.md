@@ -1,16 +1,21 @@
 # CAPM Exam Prep Quiz
 
-Interactive React quiz covering all four PMI CAPM exam domains. 76 scenario-based questions with answer rationale and elimination logic.
+Interactive React quiz covering all four PMI CAPM exam domains. 123 scenario-based questions with answer rationale and elimination logic.
 
 ## Domains
 
 | Domain | Questions |
 |--------|-----------|
-| PM Fundamentals & Core Concepts | 36 |
-| Predictive / Plan-Based (EVM, CPM, contracts) | 17 |
-| Agile Frameworks (Scrum, Kanban) | 20 |
-| Business Analysis (elicitation, RTM, BDD) | 27 |
-| Cross-Domain Application & Judgment | 6 |
+| PM Fundamentals & Core Concepts | 24 |
+| Predictive / Plan-Based (EVM, CPM, contracts) | 23 |
+| Agile Frameworks (Scrum, Kanban) | 18 |
+| Business Analysis (elicitation, RTM, BDD) | 21 |
+| Cross-Domain Application & Judgment | 8 |
+| Quality Tools & Charts | 10 |
+| Process Groups & Knowledge Areas | 6 |
+| Conflict Resolution & Team Management | 3 |
+| Risk Management | 3 |
+| Additional High-Value Topics | 7 |
 
 ## Features
 
